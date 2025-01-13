@@ -1,6 +1,6 @@
 #!/bin/bash 
 COUNTER=0
-echo Starting counter... 
+echo !Starting counter... !
 while [ $COUNTER -lt 10 ] 
 do 
    echo The counter is $COUNTER 
